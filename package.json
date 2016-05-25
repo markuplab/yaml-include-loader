@@ -1,0 +1,26 @@
+{
+  "name": "yaml-include-loader",
+  "version": "1.0.0",
+  "description": "Webpack loader based on yamlify include feature",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:markuplab/yaml-include-loader.git"
+  },
+  "keywords": [
+    "yaml",
+    "yml",
+    "webpack",
+    "loader",
+    "js-yaml"
+  ],
+  "author": "k.kaysarov <defcuts@mail.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markuplab/yaml-include-loader/issues"
+  },
+  "homepage": "https://github.com/markuplab/yaml-include-loader",
+  "dependencies": {
+    "js-yaml": "~3.0.2"
+  }
+}
