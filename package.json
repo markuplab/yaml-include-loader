@@ -1,6 +1,6 @@
 {
   "name": "yaml-include-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Webpack loader based on yamlify include feature",
   "main": "index.js",
   "repository": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/markuplab/yaml-include-loader",
   "dependencies": {
-    "js-yaml": "~3.0.2"
+    "js-yaml": "~3.13.1"
   }
 }
